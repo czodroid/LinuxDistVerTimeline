@@ -50,6 +50,11 @@ dist() {
     msg "Generated dist/$PROJNAME$VERS.tar.gz"
 }
 
+zist() {
+    [ "$tl_run" ]              || gen_svg
+    [ "$png_run" ]             || gen_png
+ }
+
 # shellcheck disable=2016
 usage() {
     msg "Usage: $0 [opt]"
@@ -68,7 +73,8 @@ main() {
         'svg') shift; VERS="$1"; gen_svg ;;
         'png') shift; VERS="$1"; gen_png ;;
         '-h'|'help') usage ;;
-        *) VERS="$1"; dist ;;
+        # *) VERS="$1"; dist ;;
+        *) zist ;;
     esac
 }
 
