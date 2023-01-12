@@ -532,7 +532,39 @@ style='opacity:0.6;' >
     <circle cx='1787' cy='280' r='5' fill='#bf1238' stroke='none' />
   <circle id='__dot_CentOS' cx='725' cy='408' r='7' fill='#6f4376' stroke='none' />
   <circle id='__dot_Fedora__Core' cx='720' cy='504' r='7' fill='#362e94' stroke='none' />
+    <circle cx='863' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='898' cy='504' r='5' fill='#362e94' stroke='none' />
     <circle cx='935' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='961' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='992' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1024' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1056' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1082' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1114' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1140' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1173' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1201' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1234' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1272' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1300' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1327' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1386' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1414' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1440' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1478' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1503' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1541' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1562' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1590' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1619' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1651' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1679' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1709' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1739' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1769' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1800' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1831' cy='504' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1862' cy='504' r='5' fill='#362e94' stroke='none' />
   <circle id='__dot_Oracle__Enterprise' cx='899' cy='472' r='7' fill='#f00' stroke='none' />
     <circle cx='939' cy='472' r='5' fill='#f00' stroke='none' />
   <circle id='__dot_Red__Hat' cx='180' cy='440' r='7' fill='#cc0000' stroke='none' />
@@ -603,13 +635,77 @@ style='opacity:0.6;' >
     <rect x='1663' y='263' width='63' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
     <a xlink:href=''><text x='1665' y='275' >10 Buster</text></a>
     <rect x='1790' y='263' width='75' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href='2019.07.06'><text x='1792' y='275' >11 Bullseye</text></a>
+    <a xlink:href=''><text x='1792' y='275' >11 Bullseye</text></a>
   <rect x='730' y='391' width='51' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='732' y='403'  >CentOS</text></a>
   <rect x='725' y='487' width='84' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='727' y='499'  >Fedora Core</text></a>
-    <rect x='938' y='487' width='47' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='940' y='499' >Fedora</text></a>
+    <rect x='866' y='487' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='868' y='499' >5</text></a>
+    <rect x='901' y='487' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='903' y='499' >6</text></a>
+    <rect x='938' y='487' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='940' y='499' >7</text></a>
+    <rect x='964' y='487' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='966' y='499' >8</text></a>
+    <rect x='995' y='487' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='997' y='499' >9</text></a>
+    <rect x='1027' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1029' y='499' >10</text></a>
+    <rect x='1059' y='487' width='14' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1061' y='499' >11</text></a>
+    <rect x='1085' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1087' y='499' >12</text></a>
+    <rect x='1117' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1119' y='499' >13</text></a>
+    <rect x='1143' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1145' y='499' >14</text></a>
+    <rect x='1176' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1178' y='499' >15</text></a>
+    <rect x='1204' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1206' y='499' >16</text></a>
+    <rect x='1237' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1239' y='499' >17</text></a>
+    <rect x='1275' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1277' y='499' >18</text></a>
+    <rect x='1303' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1305' y='499' >19</text></a>
+    <rect x='1330' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1332' y='499' >20</text></a>
+    <rect x='1389' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1391' y='499' >21</text></a>
+    <rect x='1417' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1419' y='499' >22</text></a>
+    <rect x='1443' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1445' y='499' >23</text></a>
+    <rect x='1481' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1483' y='499' >24</text></a>
+    <rect x='1506' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1508' y='499' >25</text></a>
+    <rect x='1544' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1546' y='499' >26</text></a>
+    <rect x='1568' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1570' y='499' >27</text></a>
+    <rect x='1593' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1595' y='499' >28</text></a>
+    <rect x='1622' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1624' y='499' >29</text></a>
+    <rect x='1654' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1656' y='499' >30</text></a>
+    <rect x='1682' y='487' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1684' y='499' >31</text></a>
+    <rect x='1712' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1714' y='499' >32</text></a>
+    <rect x='1742' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1744' y='499' >33</text></a>
+    <rect x='1772' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1774' y='499' >34</text></a>
+    <rect x='1803' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1805' y='499' >35</text></a>
+    <rect x='1834' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1836' y='499' >36</text></a>
+    <rect x='1865' y='487' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1867' y='499' >37</text></a>
   <rect x='904' y='455' width='116' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='906' y='467'  >Oracle Enterprise</text></a>
     <rect x='1028' y='455' width='84' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
