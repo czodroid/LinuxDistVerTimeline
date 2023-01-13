@@ -650,16 +650,16 @@ style='opacity:0.6;' >
   <a xlink:href=''><text x='732' y='403'  >CentOS</text></a>
     <rect x='789' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
     <a xlink:href=''><text x='791' y='403' >3</text></a>
-    <rect x='804' y='391' width='18' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='806' y='403' > "4</text></a>
-    <rect x='929' y='391' width='18' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='931' y='403' > "5</text></a>
-    <rect x='1207' y='391' width='18' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='1209' y='403' > "6</text></a>
-    <rect x='1364' y='391' width='18' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='1366' y='403' > "7</text></a>
-    <rect x='1676' y='391' width='18' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='1678' y='403' > "8</text></a>
+    <rect x='804' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='806' y='403' >4</text></a>
+    <rect x='929' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='931' y='403' >5</text></a>
+    <rect x='1207' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1209' y='403' >6</text></a>
+    <rect x='1364' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1366' y='403' >7</text></a>
+    <rect x='1676' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1678' y='403' >8</text></a>
   <rect x='725' y='487' width='84' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='727' y='499'  >Fedora Core</text></a>
     <rect x='817' y='487' width='7' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
