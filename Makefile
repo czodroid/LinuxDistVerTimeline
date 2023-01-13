@@ -1,35 +1,29 @@
 # Filename: Makefile
 # Author: Olivier Sirol <czo@free.fr>
 # License: GPL-2.0 (http://www.gnu.org/copyleft)
-# File Created: 12 January 2023
-# Last Modified: Thursday 12 January 2023, 22:15
+# File Created: 12 December 2021
+# Last Modified: Friday 13 January 2023, 13:58
 # $Id:$
-# Edit Time: 0:11:37
+# Edit Time: 0:18:26
 # Description:
-#      Makefile:
-#      $@ Le nom de la cible
-#      $< Le nom de la première dépendance
-#      $^ La liste des dépendances
-#      $? La liste des dépendances plus récentes que la cible
-#      $* Le nom du fichier sans suffixe
 #
-# Copyright: (C) 2023 Olivier Sirol <czo@free.fr>
+# Copyright: (C) 2021-2023 Olivier Sirol <czo@free.fr>
 
-DATE = `date "+Y"`
+DATE = `date +%Y-%m-%d`
 
 all: svg png
 	@echo "<- all done!"
 
-svg: ldt.csv ldt.conf
-	gnuclad ldt.csv ldt-$(DATE).svg ldt.conf
+svg:
+	gnuclad ldvt.csv ldvt-$(DATE).svg ldvt.conf
 	@echo "<- svg done!"
 
 png: svg
-	convert ldt-$(DATE).svg  ldt-$(DATE).png
-	@echo "<- svg done!"
+	convert ldvt-$(DATE).svg  ldvt-$(DATE).png
+	@echo "<- png done!"
 
 clean:
-	rm -f ldt*.svg  ldt*.png
+	rm -f ldvt*.svg  ldvt*.png
 	@echo "<- clean done!"
 
 
