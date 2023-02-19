@@ -38,13 +38,13 @@
      inkscape:window-height="831"
      id="namedview1816"
      showgrid="false"
-     inkscape:zoom="6.2266747"
-     inkscape:cx="953.42407"
-     inkscape:cy="398.05846"
+     inkscape:zoom="9.825179"
+     inkscape:cx="729.76585"
+     inkscape:cy="545.525"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer_yearrulers"
+     inkscape:current-layer="layer_labels"
      inkscape:document-rotation="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -4018,8 +4018,8 @@
          id="text1203">8</text>
     </a>
     <rect
-       x="725"
-       y="519"
+       x="698.00385"
+       y="545.83319"
        width="47"
        height="14"
        fill="#fff"
@@ -4029,61 +4029,65 @@
        id="rect1207" />
     <a
        xlink:href=""
-       id="a1211">
+       id="a1211"
+       transform="translate(-26.996168,26.833163)">
       <text
          x="727"
          y="531"
          id="text1209">Fedora</text>
     </a>
     <rect
-       x="780"
-       y="519"
+       x="726.46643"
+       y="520.30206"
        width="7"
        height="14"
-       fill="#fff"
+       fill="#ffffff"
        opacity="0.6"
        rx="5"
        ry="5"
        id="rect1213" />
     <a
        xlink:href=""
-       id="a1217">
+       id="a1217"
+       transform="translate(-56.0482,0.96610835)">
       <text
          x="782"
          y="531"
          id="text1215">1</text>
     </a>
     <rect
-       x="780"
-       y="519"
+       x="756.49017"
+       y="520.32312"
        width="8"
        height="14"
-       fill="#fff"
+       fill="#ffffff"
        opacity="0.6"
        rx="5"
        ry="5"
        id="rect1219" />
     <a
        xlink:href=""
-       id="a1223">
+       id="a1223"
+       transform="translate(-25.098541,1.3123964)">
       <text
          x="782"
          y="531"
          id="text1221">2</text>
     </a>
     <rect
-       x="795"
-       y="519"
+       x="784.62848"
+       y="520.04761"
        width="8"
        height="14"
-       fill="#fff"
+       fill="#ffffff"
        opacity="0.6"
        rx="5"
        ry="5"
        id="rect1225" />
     <a
        xlink:href=""
-       id="a1229">
+       id="a1229"
+       transform="translate(-10.371551,1.0476113)">
       <text
          x="797"
          y="531"
