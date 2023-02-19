@@ -29,7 +29,7 @@ containing the source, ImageMagick is required to convert from svg to png.
 
 ### ScreenShot
 
-![ScreenShot](images/ldvt.png)
+![ScreenShot](ldvt-2023-02-19.png)
 
 ### Related resources
 
