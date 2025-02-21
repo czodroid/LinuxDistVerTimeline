@@ -11,7 +11,7 @@
   xmlns:cc='http://creativecommons.org/ns#'
   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
   version='1.1'
-  width='1880'
+  width='2000'
   height='1072'
 >
 
@@ -542,7 +542,7 @@
 </defs>
 
 <g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
-  <rect x='0' y='0' width='1880' height='1072' rx='16' ry='16' fill='#fff' />
+  <rect x='0' y='0' width='2000' height='1072' rx='16' ry='16' fill='#fff' />
 </g>
 
 <g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='0' stroke='#f0f0f0'>
@@ -919,15 +919,39 @@
     <line x1='1860' y1='0' x2='1860' y2='1072' />
     <line x1='1865' y1='0' x2='1865' y2='1072' />
   <line x1='1870' y1='0' x2='1870' y2='1072' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1875' y1='0' x2='1875' y2='1072' />
+    <line x1='1880' y1='0' x2='1880' y2='1072' />
+    <line x1='1885' y1='0' x2='1885' y2='1072' />
+    <line x1='1890' y1='0' x2='1890' y2='1072' />
+    <line x1='1895' y1='0' x2='1895' y2='1072' />
+    <line x1='1900' y1='0' x2='1900' y2='1072' />
+    <line x1='1905' y1='0' x2='1905' y2='1072' />
+    <line x1='1910' y1='0' x2='1910' y2='1072' />
+    <line x1='1915' y1='0' x2='1915' y2='1072' />
+    <line x1='1920' y1='0' x2='1920' y2='1072' />
+    <line x1='1925' y1='0' x2='1925' y2='1072' />
+  <line x1='1930' y1='0' x2='1930' y2='1072' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1935' y1='0' x2='1935' y2='1072' />
+    <line x1='1940' y1='0' x2='1940' y2='1072' />
+    <line x1='1945' y1='0' x2='1945' y2='1072' />
+    <line x1='1950' y1='0' x2='1950' y2='1072' />
+    <line x1='1955' y1='0' x2='1955' y2='1072' />
+    <line x1='1960' y1='0' x2='1960' y2='1072' />
+    <line x1='1965' y1='0' x2='1965' y2='1072' />
+    <line x1='1970' y1='0' x2='1970' y2='1072' />
+    <line x1='1975' y1='0' x2='1975' y2='1072' />
+    <line x1='1980' y1='0' x2='1980' y2='1072' />
+    <line x1='1985' y1='0' x2='1985' y2='1072' />
+  <line x1='1990' y1='0' x2='1990' y2='1072' stroke-width='2' stroke='#e1e1e1' />
 </g>
 
 <g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
-  <rect x='107' y='216' width='1763' height='128' rx='16' ry='16' fill='url(#__domain_Debian)' />
-  <rect x='102' y='88' width='1768' height='96' rx='16' ry='16' fill='url(#__domain_Slackware)' />
-  <rect x='180' y='376' width='1690' height='192' rx='16' ry='16' fill='url(#__domain_Red__Hat)' />
-  <rect x='270' y='632' width='1600' height='128' rx='16' ry='16' fill='url(#__domain_S.u.S.E__Linux)' />
-  <rect x='485' y='792' width='1385' height='64' rx='16' ry='16' fill='url(#__domain_Enoch)' />
-  <rect x='621' y='888' width='1249' height='128' rx='16' ry='16' fill='url(#__domain_Arch__Linux)' />
+  <rect x='107' y='216' width='1883' height='128' rx='16' ry='16' fill='url(#__domain_Debian)' />
+  <rect x='102' y='88' width='1888' height='96' rx='16' ry='16' fill='url(#__domain_Slackware)' />
+  <rect x='180' y='376' width='1810' height='192' rx='16' ry='16' fill='url(#__domain_Red__Hat)' />
+  <rect x='270' y='632' width='1720' height='128' rx='16' ry='16' fill='url(#__domain_S.u.S.E__Linux)' />
+  <rect x='485' y='792' width='1505' height='64' rx='16' ry='16' fill='url(#__domain_Enoch)' />
+  <rect x='621' y='888' width='1369' height='128' rx='16' ry='16' fill='url(#__domain_Arch__Linux)' />
 </g>
 
 <g inkscape:label='Connectors' inkscape:groupmode='layer' id='layer_connectors'
@@ -937,24 +961,24 @@ style='opacity:0.6;' >
 <g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
  style='fill:none;stroke-width:4;' >
   <path id='__line_S.u.S.E' d='M 102 120 C 130.5,120 111.5,152 140,152 L 140 152 L 270 152' stroke='#4bb679' style='stroke-width:4;' marker-end='url(#__stop_S.u.S.E)' />
-  <path id='__line_Slackware' d='M 42 88 C 87,88 57,120 102,120 L 102 120 L 1865 120' stroke='#000' style='stroke-width:4;' />
+  <path id='__line_Slackware' d='M 42 88 C 87,88 57,120 102,120 L 102 120 L 1985 120' stroke='#000' style='stroke-width:4;' />
   <path id='__line_SLS' d='M 35 88 L 130 88' stroke='#9c8ac4' style='stroke-width:4;' marker-end='url(#__stop_SLS)' />
-  <path id='__line_Raspbian' d='M 1175 280 C 1220,280 1190,248 1235,248 L 1235 248 L 1865 248' stroke='#c61931' style='stroke-width:4;' />
-  <path id='__line_Ubuntu' d='M 718 280 C 763,280 733,312 778,312 L 778 312 L 1865 312' stroke='#e95420' style='stroke-width:4;' />
-  <path id='__line_Debian' d='M 107 280 L 1865 280' stroke='#bf1238' style='stroke-width:4;' />
-  <path id='__line_Rocky__Linux' d='M 1709 408 C 1754,408 1724,440 1769,440 L 1769 440 L 1865 440' stroke='#7f3386' style='stroke-width:4;' />
-  <path id='__line_CentOS' d='M 665 472 C 710,472 680,408 725,408 L 725 408 L 1865 408' stroke='#6f4376' style='stroke-width:4;' />
-  <path id='__line_Fedora' d='M 660 472 C 705,472 675,536 720,536 L 720 536 L 1865 536' stroke='#362e94' style='stroke-width:4;' />
-  <path id='__line_Oracle__Enterprise' d='M 839 472 C 884,472 854,504 899,504 L 899 504 L 1865 504' stroke='#f00' style='stroke-width:4;' />
-  <path id='__line_Red__Hat' d='M 180 472 L 1865 472' stroke='#cc0000' style='stroke-width:4;' />
-  <path id='__line_SUSE__Linux__Enterprise__Server' d='M 480 696 C 525,696 495,728 540,728 L 540 728 L 1865 728' stroke='#7ad4aa' style='stroke-width:4;' />
-  <path id='__line_Novell__Linux__Desktop' d='M 721 696 C 766,696 736,664 781,664 L 781 664 L 1865 664' stroke='#7ad4aa' style='stroke-width:4;' />
-  <path id='__line_S.u.S.E__Linux' d='M 210 632 C 255,632 225,696 270,696 L 270 696 L 1865 696' stroke='#4bb679' style='stroke-width:4;' />
+  <path id='__line_Raspbian' d='M 1175 280 C 1220,280 1190,248 1235,248 L 1235 248 L 1985 248' stroke='#c61931' style='stroke-width:4;' />
+  <path id='__line_Ubuntu' d='M 718 280 C 763,280 733,312 778,312 L 778 312 L 1985 312' stroke='#e95420' style='stroke-width:4;' />
+  <path id='__line_Debian' d='M 107 280 L 1985 280' stroke='#bf1238' style='stroke-width:4;' />
+  <path id='__line_Rocky__Linux' d='M 1709 408 C 1754,408 1724,440 1769,440 L 1769 440 L 1985 440' stroke='#7f3386' style='stroke-width:4;' />
+  <path id='__line_CentOS' d='M 665 472 C 710,472 680,408 725,408 L 725 408 L 1985 408' stroke='#6f4376' style='stroke-width:4;' />
+  <path id='__line_Fedora' d='M 660 472 C 705,472 675,536 720,536 L 720 536 L 1985 536' stroke='#362e94' style='stroke-width:4;' />
+  <path id='__line_Oracle__Enterprise' d='M 839 472 C 884,472 854,504 899,504 L 899 504 L 1985 504' stroke='#f00' style='stroke-width:4;' />
+  <path id='__line_Red__Hat' d='M 180 472 L 1985 472' stroke='#cc0000' style='stroke-width:4;' />
+  <path id='__line_SUSE__Linux__Enterprise__Server' d='M 480 696 C 525,696 495,728 540,728 L 540 728 L 1985 728' stroke='#7ad4aa' style='stroke-width:4;' />
+  <path id='__line_Novell__Linux__Desktop' d='M 721 696 C 766,696 736,664 781,664 L 781 664 L 1985 664' stroke='#7ad4aa' style='stroke-width:4;' />
+  <path id='__line_S.u.S.E__Linux' d='M 210 632 C 255,632 225,696 270,696 L 270 696 L 1985 696' stroke='#4bb679' style='stroke-width:4;' />
   <path id='__line_Jurix' d='M 196 632 L 310 632' stroke='#9f9f9f' style='stroke-width:4;' marker-end='url(#__stop_Jurix)' />
-  <path id='__line_Enoch' d='M 485 824 L 1865 824' stroke='#a0a0f0' style='stroke-width:4;' />
-  <path id='__line_SystemRescueCD__' d='M 1575 952 C 1620,952 1590,920 1635,920 L 1635 920 L 1865 920' stroke='#508fee' style='stroke-width:4;' />
-  <path id='__line_Manjaro' d='M 1121 952 C 1166,952 1136,984 1181,984 L 1181 984 L 1865 984' stroke='#3fbb3f' style='stroke-width:4;' />
-  <path id='__line_Arch__Linux' d='M 621 952 L 1865 952' stroke='#0771a6' style='stroke-width:4;' />
+  <path id='__line_Enoch' d='M 485 824 L 1985 824' stroke='#a0a0f0' style='stroke-width:4;' />
+  <path id='__line_SystemRescueCD__' d='M 1575 952 C 1620,952 1590,920 1635,920 L 1635 920 L 1985 920' stroke='#508fee' style='stroke-width:4;' />
+  <path id='__line_Manjaro' d='M 1121 952 C 1166,952 1136,984 1181,984 L 1181 984 L 1985 984' stroke='#3fbb3f' style='stroke-width:4;' />
+  <path id='__line_Arch__Linux' d='M 621 952 L 1985 952' stroke='#0771a6' style='stroke-width:4;' />
 </g>
 
 <g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
@@ -995,7 +1019,9 @@ style='opacity:0.6;' >
     <circle cx='1537' cy='280' r='5' fill='#bf1238' stroke='none' />
     <circle cx='1660' cy='280' r='5' fill='#bf1238' stroke='none' />
     <circle cx='1787' cy='280' r='5' fill='#bf1238' stroke='none' />
+    <circle cx='1896' cy='280' r='5' fill='#bf1238' stroke='none' />
   <circle id='__dot_Rocky__Linux' cx='1769' cy='440' r='7' fill='#7f3386' stroke='none' />
+    <circle cx='1842' cy='440' r='5' fill='#7f3386' stroke='none' />
   <circle id='__dot_CentOS' cx='725' cy='408' r='7' fill='#6f4376' stroke='none' />
     <circle cx='743' cy='408' r='5' fill='#6f4376' stroke='none' />
     <circle cx='801' cy='408' r='5' fill='#6f4376' stroke='none' />
@@ -1041,10 +1067,21 @@ style='opacity:0.6;' >
     <circle cx='1800' cy='536' r='5' fill='#362e94' stroke='none' />
     <circle cx='1831' cy='536' r='5' fill='#362e94' stroke='none' />
     <circle cx='1862' cy='536' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1887' cy='536' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1921' cy='536' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1948' cy='536' r='5' fill='#362e94' stroke='none' />
+    <circle cx='1979' cy='536' r='5' fill='#362e94' stroke='none' />
   <circle id='__dot_Oracle__Enterprise' cx='899' cy='504' r='7' fill='#f00' stroke='none' />
     <circle cx='939' cy='504' r='5' fill='#f00' stroke='none' />
   <circle id='__dot_Red__Hat' cx='180' cy='472' r='7' fill='#cc0000' stroke='none' />
     <circle cx='624' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='718' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='797' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='922' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='1141' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='1356' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='1651' cy='472' r='5' fill='#cc0000' stroke='none' />
+    <circle cx='1861' cy='472' r='5' fill='#cc0000' stroke='none' />
   <circle id='__dot_SUSE__Linux__Enterprise__Server' cx='540' cy='728' r='7' fill='#7ad4aa' stroke='none' />
   <circle id='__dot_Novell__Linux__Desktop' cx='781' cy='664' r='7' fill='#7ad4aa' stroke='none' />
     <circle cx='882' cy='664' r='5' fill='#7ad4aa' stroke='none' />
@@ -1065,7 +1102,7 @@ style='opacity:0.6;' >
 </g>
 
 <g inkscape:label='Labels' inkscape:groupmode='layer' id='layer_labels' 
- style='font-size:14px;stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+ style='font-size:14px;stroke:none;fill:#000;font-family:Liberation Sans, Ubuntu;-inkscape-font-specification:Liberation Sans, Ubuntu;' >
   <rect x='145' y='135' width='49' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='147' y='147'  >S.u.S.E</text></a>
   <rect x='107' y='103' width='69' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
@@ -1138,8 +1175,12 @@ style='opacity:0.6;' >
     <a xlink:href=''><text x='1665' y='275' >10 Buster</text></a>
     <rect x='1790' y='263' width='75' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
     <a xlink:href=''><text x='1792' y='275' >11 Bullseye</text></a>
+    <rect x='1899' y='263' width='90' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1901' y='275' >12 Bookworm</text></a>
   <rect x='1774' y='423' width='81' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='1776' y='435'  >Rocky Linux</text></a>
+    <rect x='1863' y='423' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1865' y='435' >9</text></a>
   <rect x='730' y='391' width='51' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='732' y='403'  >CentOS</text></a>
     <rect x='789' y='391' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
@@ -1230,14 +1271,36 @@ style='opacity:0.6;' >
     <a xlink:href=''><text x='1836' y='531' >36</text></a>
     <rect x='1865' y='519' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
     <a xlink:href=''><text x='1867' y='531' >37</text></a>
+    <rect x='1890' y='519' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1892' y='531' >38</text></a>
+    <rect x='1924' y='519' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1926' y='531' >39</text></a>
+    <rect x='1951' y='519' width='16' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1953' y='531' >40</text></a>
+    <rect x='1982' y='519' width='15' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1984' y='531' >41</text></a>
   <rect x='904' y='487' width='116' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='906' y='499'  >Oracle Enterprise</text></a>
     <rect x='1028' y='487' width='84' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
     <a xlink:href=''><text x='1030' y='499' >Oracle Linux</text></a>
   <rect x='185' y='455' width='54' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='187' y='467'  >Red Hat</text></a>
-    <rect x='627' y='455' width='128' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
-    <a xlink:href=''><text x='629' y='467' >Red Hat Enterprise</text></a>
+    <rect x='627' y='455' width='63' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='629' y='467' >RHEL 2.1</text></a>
+    <rect x='721' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='723' y='467' >3</text></a>
+    <rect x='800' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='802' y='467' >4</text></a>
+    <rect x='925' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='927' y='467' >5</text></a>
+    <rect x='1144' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1146' y='467' >6</text></a>
+    <rect x='1359' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1361' y='467' >7</text></a>
+    <rect x='1654' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1656' y='467' >8</text></a>
+    <rect x='1864' y='455' width='8' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
+    <a xlink:href=''><text x='1866' y='467' >9</text></a>
   <rect x='545' y='711' width='203' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
   <a xlink:href=''><text x='547' y='723'  >SUSE Linux Enterprise Server</text></a>
   <rect x='786' y='647' width='141' height='14' fill='#fff' opacity='0.6'  rx='5' ry='5' />
@@ -1270,9 +1333,9 @@ style='opacity:0.6;' >
 
 <g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' 
  style='stroke:none;fill:url(#__yearline);' >
-  <rect x='0' y='0' rx='5' ry='5' width='1880' height='40' />
-  <rect x='0' y='1032' rx='5' ry='5' width='1880' height='40' />
-  <g style='font-size:22px;stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;text-anchor:middle;' >
+  <rect x='0' y='0' rx='5' ry='5' width='2000' height='40' />
+  <rect x='0' y='1032' rx='5' ry='5' width='2000' height='40' />
+  <g style='font-size:22px;stroke:none;fill:#fff;font-family:Liberation Sans, Ubuntu;-inkscape-font-specification:Liberation Sans, Ubuntu;text-anchor:middle;' >
     <text x='40' y='28'><tspan>1992</tspan></text>
     <text x='40' y='1060'><tspan>1992</tspan></text>
     <text x='100' y='28'><tspan>1993</tspan></text>
@@ -1335,18 +1398,22 @@ style='opacity:0.6;' >
     <text x='1780' y='1060'><tspan>2021</tspan></text>
     <text x='1840' y='28'><tspan>2022</tspan></text>
     <text x='1840' y='1060'><tspan>2022</tspan></text>
+    <text x='1900' y='28'><tspan>2023</tspan></text>
+    <text x='1900' y='1060'><tspan>2023</tspan></text>
+    <text x='1960' y='28'><tspan>2024</tspan></text>
+    <text x='1960' y='1060'><tspan>2024</tspan></text>
   </g>
 </g>
 
 <g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
- style='stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+ style='stroke:none;fill:#000;font-family:Liberation Sans, Ubuntu;-inkscape-font-specification:Liberation Sans, Ubuntu;' >
   <rect x='20' y='850' width='300' height='80' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
   <rect x='20' y='850' width='300' height='80' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
   <text x='25' y='868'><tspan style='font-size:16px;font-weight:bold;'>Linux Distributions Version Timeline</tspan></text>
   <text x='25' y='879'><tspan style='font-size:8px;'></tspan></text>
   <text x='25' y='889'><tspan style='font-size:8px;'>Published under the GNU Free Documentation License</tspan></text>
   <text x='25' y='899'><tspan style='font-size:8px;'></tspan></text>
-  <text x='25' y='909'><tspan style='font-size:8px;'><tspan style='font-weight:bold'>Version 2023-02-19</tspan></tspan></text>
+  <text x='25' y='909'><tspan style='font-size:8px;'><tspan style='font-weight:bold'>Version 2025-02-21</tspan></tspan></text>
   <text x='25' y='919'><tspan style='font-size:8px;'></tspan></text>
 </g>
 
